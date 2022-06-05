@@ -1,7 +1,6 @@
 package com.github.gitvoytenko.maven_demo;
 
 import com.github.romankh3.image.comparison.ImageComparisonUtil;
-import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.DisplayName;
